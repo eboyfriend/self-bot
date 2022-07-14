@@ -12,13 +12,5 @@ then run pip install discord
 then after thats done run python s.py
 
 then idc wtf u do after run that command in terminal, cmd prompt, or vscode Lol.
-.
-.
-.
-.
-.
-.
-.
-.
-.
+
 "add python to path before going into Issues, thanks 
